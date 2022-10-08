@@ -5,7 +5,7 @@
 #### Team Name: Team Insured    
   
 #### Your team’s hackathon idea in One sentence:
-##### Create a web platform that informs low income families about health care, compares health insurance plans, and recommends which is best for them based on algorithms, user feedback, and data provided. 
+##### Create a web platform that informs low income families about health care, compares health insurance plans, and recommends which is best for them based on patient data provided, user feedback on insurance plans, and algorithms.
 
 
 #### A visual
