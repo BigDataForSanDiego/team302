@@ -5,7 +5,7 @@
 #### Team Name: Team Insured    
   
 #### Your team’s hackathon idea in One sentence:
-##### Create a web platform that informs low income families about health care and which health insurance plan is best for them  
+##### Create a web platform that informs low income families about health care and which health insurance plan is best and adequate for them  
 
 
 #### A visual
@@ -28,4 +28,4 @@
 
 #### Team Coordinator GitHub Username: clarissacheng
 
-#### Team Members 'Clarissa Cheng, Emmanuel Kokey, Ismail Buul, Fernanda Idarraga, Daniel Gonzalez'
+#### Team Members: Clarissa Cheng, Emmanuel Kokey, Ismail Buul, Fernanda Idarraga, Daniel Gonzalez
